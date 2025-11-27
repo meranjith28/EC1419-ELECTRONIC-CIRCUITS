@@ -14,6 +14,7 @@
 ![WhatsApp Image 2025-11-27 at 12 12 26_90366dd0](https://github.com/user-attachments/assets/5f4d0e0b-9ea6-48c4-a7c6-d56db2285d22)
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+
 Gain of the amplifier - 6.8 db
 
 Bandwidth of the amplifier- 9.9 KHz
